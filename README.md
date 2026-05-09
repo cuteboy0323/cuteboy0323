@@ -1,8 +1,6 @@
 <div align="center">
 
-# ✨ nearfriend
-
-### ⚡ Building clean, scalable software systems
+# ✨ Fantastic
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Systems;Clean+Architecture+Builder;Learning+by+building" />
 

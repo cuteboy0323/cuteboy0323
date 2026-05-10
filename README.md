@@ -119,6 +119,6 @@ I also bring a **UI/UX design mindset** to every project, ensuring that form and
 - 🌐 [Portfolio Website](#) *(add your link)*
 - 📧 [Email](mailto:your.email@example.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🐙 [GitHub](https://github.com/cuteboy0323)
 
 ---

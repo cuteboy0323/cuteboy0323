@@ -5,6 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0e2b3d&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=flat-square&color=0e2b3d)
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=74AFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Systems;Scalable+Accessable+Responsive+Projects;Opening+to+Feedbacks" />
+
 **Full-Stack Developer** *+6 years of experience* <br/>
 *UI/UX Designer* | *Creative Technologist* | *Problem Solver*
 
